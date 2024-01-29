@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!! I'm JAYANTH N J</h1>
+<h1 align="center">Hey there!! I'm JAYANTH J</h1>
 <h3 align="center">Software Developer | Technophile | Hodophile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanth27shiva&label=Profile%20views&color=0e75b6&style=flat" alt="jayanth27shiva" /> </p>
@@ -11,7 +11,7 @@
 
 - 🔗 Know me [https://jayanthnj.xyz/](https://jayanthnj.xyz/)
 
-- 📧 Reach me **jayanth27shiva@gmail.com**
+- 📧 Reach me **jayanthjeyadev@gmail.com**
 
 - 📄 Resume [https://drive.google.com/drive/folders/1YAOpE7QQPe7MqmNfO1J7fXa7L6x0Y4Yw?usp=share_link](https://drive.google.com/drive/folders/1YAOpE7QQPe7MqmNfO1J7fXa7L6x0Y4Yw?usp=share_link)
 
