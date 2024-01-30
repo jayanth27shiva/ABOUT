@@ -11,7 +11,7 @@
 
 - 🔗 Know me [https://jayanthnj.xyz/](https://jayanthnj.xyz/)
 
-- 📧 Reach me **jayanthjeyadev@gmail.com**
+- 📧 Reach me **jayanth27shiva@gmail.com**
 
 - 📄 Resume [https://drive.google.com/drive/folders/1YAOpE7QQPe7MqmNfO1J7fXa7L6x0Y4Yw?usp=share_link](https://drive.google.com/drive/folders/1YAOpE7QQPe7MqmNfO1J7fXa7L6x0Y4Yw?usp=share_link)
 
